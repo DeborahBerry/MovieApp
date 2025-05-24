@@ -32,9 +32,4 @@ This project demonstrates:
 - Node.js (v14 or higher)
 - npm or yarn
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MovieApp.git
-   cd MovieApp
