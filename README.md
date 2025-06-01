@@ -23,6 +23,10 @@ This project demonstrates:
 
 - **ReactJS**
 - **CSS / Flexbox**
+  
+## Live Demo
+
+The project is deployed on Vercel. Check it out here: https://movie-app-mu-three-27.vercel.app/ 
 
 ## 📢 Notes
 
