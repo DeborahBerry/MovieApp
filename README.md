@@ -22,5 +22,9 @@ This project demonstrates:
 ## 🛠️ Tech Stack
 
 - **ReactJS**
-- **JavaScript (ES6+)**
 - **CSS / Flexbox**
+
+## 📢 Notes
+
+This project is open to creative edits and improvements. Feel free to clone, extend, or adapt it for your own needs.
+
