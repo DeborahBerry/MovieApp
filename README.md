@@ -14,9 +14,7 @@ MovieApp is a simple and interactive React application that allows users to brow
 This project demonstrates:
 
 - How to use React Hooks (useState, useEffect)
-
 - How to structure a scalable React app
-
 - How to fetch and display data using public APIs
   
 ## 🛠️ Tech Stack
@@ -28,7 +26,7 @@ This project demonstrates:
 
 The project is deployed on Vercel. Check it out here: https://movie-app-mu-three-27.vercel.app/ 
 
-## 📢 Notes
+## 📌 Notes
 
-This project is open to creative edits and improvements. Feel free to clone, extend, or adapt it for your own needs.
+**🙋‍♂️ This project is open to creative edits and improvements. Feel free to clone, extend, or adapt it for your own needs.**
 
