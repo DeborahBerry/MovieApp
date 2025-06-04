@@ -28,5 +28,5 @@ The project is deployed on Vercel. Check it out here: https://movie-app-mu-three
 
 ## 📌 Notes
 
-**🙋‍♂️ This project is open to creative edits and improvements. Feel free to clone, extend, or adapt it for your own needs.**
+**🤝 This project is open to creative edits and improvements. Feel free to clone, extend, or adapt it for your own needs.**
 
